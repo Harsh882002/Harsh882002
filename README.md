@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Patle</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<img align="right" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif" alt="coding" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh882002&label=Profile%20views&color=0e75b6&style=flat" alt="harsh882002" /> </p>
 
 - 🔭 I’m currently working on **React frontend Project**
